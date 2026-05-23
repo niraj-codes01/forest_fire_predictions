@@ -36,16 +36,3 @@ Target variable: **FWI (Fire Weather Index)**.
    ```bash
    git clone https://github.com/niraj-codes01/forest_fire_predictions.git
    cd forest_fire_predictions
-
-Install dependencies:
-
-bash
-pip install -r requirements.txt
-Run Flask app:
-
-bash
-python application.py
-Open browser at:
-
-Code
-http://127.0.0.1:5000/
